@@ -1,5 +1,4 @@
 # TL Projects UX Work
-Two ways to open Sketch file in your local laptop: 
 
 ## Open UX Work on Adobe XD 
 1. Click link below to download Adobe XD. Select "Start for free".
@@ -14,7 +13,7 @@ https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=EAIaIQobChM
 7. Choose the Sketch file you just downloaded from Github.
 8. Success!
 
-## Open UX Work on Figma
+## Not secure - Open UX Work on Figma
 1. Search "Figma" or using this link: www.figma.com
 2. Create a new free account or sign in with Google account
 3. On the right top part of the screen, there is an import icon
