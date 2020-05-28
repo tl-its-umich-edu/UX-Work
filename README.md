@@ -15,7 +15,7 @@ https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=EAIaIQobChM
 
 ## Open UX Work on Figma
 1. Search "Figma" or using this link: www.figma.com
-2. Create a new free account or sign in with Google account
+2. Create a new FREE account or sign in with Google account
 3. On the right top part of the screen, there is an import icon
 4. Click the import button, and select the Sketch file you want to view
 5. Wait for a few seconds and you could find this file in "Draft"
