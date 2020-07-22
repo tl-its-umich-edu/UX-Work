@@ -20,3 +20,6 @@ https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=EAIaIQobChM
 4. Click the import button, and select the Sketch file you want to view
 5. Wait for a few seconds and you could find this file in "Draft"
 6. When you first open this file in Figam, it usually requests for font replacing. Choose a font and then you could see text. If you do not choose a font in the notification, you might not be able to see text
+
+## Requirement Document
+1. Here is the document for all the list of CCM (feature)[https://docs.google.com/document/d/1cORHhRjn9O-9AJFvEpVUcOiqHJsvVTlYsv6PLMfy6YE/edit]
