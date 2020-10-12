@@ -23,3 +23,4 @@ https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=EAIaIQobChM
 
 ## Requirement Document
 1. Here is the document for all the list of CCM (feature)[https://docs.google.com/document/d/1cORHhRjn9O-9AJFvEpVUcOiqHJsvVTlYsv6PLMfy6YE/edit]
+2. Accessibility Requirement document (version1)[https://docs.google.com/document/d/1y0d65MIy-XcgtXoz3dTQOSGjwStwHrlIh5bbQvipqrk/] and (version2)[https://docs.google.com/document/d/1kbQh4T6c6K_pFfN7a0RvTj4HYCRwYwXb7jqRUywVy6g/] 
